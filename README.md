@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bakhodirov09
 - 👀 I’m interested in Create ai, create programms and others
-- 🌱 I’m currently learning Python Django
+- 🌱 I’m currently learning Python FastApi
 - ⚡ Fun fact: Artificial intelligence is the need of the hour
 - ❤️ I love: Coding, Sleep, Spend Money, Learn other programm languages
  and Apple Products :)
