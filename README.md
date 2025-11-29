@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Bakhodirov09
-- 👀 I’m interested in Create ai, create programms and others
-- 🌱 I’m currently learning Python FastApi
+- 👀 I’m interested in Creating an Ai, creating new programms and others
+- 🌱 I’m currently learning English and Python deeper
 - ⚡ Fun fact: Artificial intelligence is the need of the hour
-- ❤️ I love: Coding, Sleep, Spend Money, Learn other programm languages
+- ❤️ I love: Coding, Sleepping, Spending Money, Learning other programming languages
  and Apple Products :)
-- 🏫 I study: School and Mars IT School in Uzbekistan ☝️
+- 🏫 I study at school and English learning Centre
 
 
 
